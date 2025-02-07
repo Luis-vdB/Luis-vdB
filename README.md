@@ -3,7 +3,7 @@
 🚀 IT Support Specialist | Cybersecurity Enthusiast | Tech Problem Solver  
 
 🔹 **Technical Skills:** Windows, Linux, macOS, Active Directory, PowerShell, SIEM, IT Support  
-🔹 **Certifications:** CompTIA A+, Google IT Support Professional, Google Cybersecurity Professional, CompTIA Security+ (In Progress), CompTIA Network+ (In Progress)  
+🔹 **Certifications:** CompTIA A+, Google IT Support Professional, Google Cybersecurity Professional, CompTIA Security+ (In Progress),  CompTIA Network+ (In Progress)  
 🔹 **Education:** Associate of Arts, Orange Coast College | Google IT & Cybersecurity Certificates  
 🔹 **Currently Learning:** Advanced Cybersecurity & Ethical Hacking  
 
