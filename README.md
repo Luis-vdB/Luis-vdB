@@ -42,7 +42,10 @@ Stood up a deliberately exposed VM in Azure, pulled the inevitable flood of RDP 
 **🖥️ [Active Directory Home Lab](https://github.com/Luis-vdB/Active-Directory-Home-Lab)**  
 A full Windows Server 2022 domain from scratch: AD DS, DNS, DHCP, NAT/RAS, a domain-joined client, and PowerShell automating user and OU creation. 100+ commits, documented step by step. Identity and infrastructure are the bedrock everything else sits on, so I wanted to know them cold.
 
-**🧰 Homelab:** a Proxmox server (named `venom`, naturally) running self-hosted services over WireGuard, plus **70+ rooms on TryHackMe** — EternalBlue, the OWASP Top 10, Metasploit, malware analysis — working the SOC analyst path.
+**🧱 [Proxmox Homelab — Secure Infrastructure](https://github.com/Luis-vdB/proxmox-homelab)**  
+A bare-metal Proxmox server (`venom`) running as a VPN gateway, monitoring stack, and security-lab platform — and documented as a full reference architecture so anyone can see exactly how it's built. **WireGuard** tunnel-first remote access with zero internet-facing management ports, automated **Cloudflare DDNS**, **Uptime Kuma** monitoring with push alerts, and tiered config backups on physically isolated storage. The "automated, documented, and boring in the good way" thing, turned into infrastructure.
+
+**🧰 TryHackMe:** 70+ rooms — EternalBlue, the OWASP Top 10, Metasploit, malware analysis — building structured offensive and defensive methodology hands-on.
 
 ---
 
