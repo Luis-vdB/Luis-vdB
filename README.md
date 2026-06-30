@@ -45,6 +45,9 @@ A full Windows Server 2022 domain from scratch: AD DS, DNS, DHCP, NAT/RAS, a dom
 **🧱 [Proxmox Homelab — Secure Infrastructure](https://github.com/Luis-vdB/proxmox-homelab)**  
 A bare-metal Proxmox server (`venom`) running as a VPN gateway, monitoring stack, and security-lab platform — and documented as a full reference architecture so anyone can see exactly how it's built. **WireGuard** tunnel-first remote access with zero internet-facing management ports, automated **Cloudflare DDNS**, **Uptime Kuma** monitoring with push alerts, and tiered config backups on physically isolated storage. The "automated, documented, and boring in the good way" thing, turned into infrastructure.
 
+**🛡️ [Kali Linux OPSEC Hardening — Threat-Model Walkthrough](https://github.com/Luis-vdB/kali-opsec-hardening)**  
+How to turn a stock Kali install into a hardened research platform, documented by the **threat each control defeats** rather than as an install log. LUKS full-disk encryption, two-layer MAC randomization, an **nftables**-enforced VPN kill switch, hibernation masking to keep keys out of swap, and automatic network-interface isolation. The centerpiece is a threat-model table mapping every layer to the specific risk it kills — defense in depth, justified, not checkbox'd.
+
 **🧰 TryHackMe:** 70+ rooms — EternalBlue, the OWASP Top 10, Metasploit, malware analysis — building structured offensive and defensive methodology hands-on.
 
 ---
